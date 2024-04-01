@@ -1,0 +1,7 @@
+numpy 
+jax 
+chex 
+matplotlib
+pandas 
+wandb
+tqdm
